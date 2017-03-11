@@ -1,0 +1,21 @@
+Newton Method
+================================
+Interpolating polynomial is: 
+================================
+7.0
+Simplified polynomial is: 
+================================
+7.0x^0
+Divided Difference Table
+================================
+x,f[],
+0.0,7.0,
+
+Lagrange Method
+================================
+Interpolating polynomial is: 
+================================
+7.0
+Simplified polynomial is: 
+================================
+7.0x^0
